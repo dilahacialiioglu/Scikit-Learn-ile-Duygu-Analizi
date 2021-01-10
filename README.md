@@ -5,9 +5,9 @@ Yapılan çalışma 3 parça şeklinde paylaşılmıştır. İlk parça olan ön
 
 İkinci parçada ise Decision Tree, Random Forest, Logistic Regression ve Support Vector Machine algoritmaları hiper parametreler ile birlikte tek tek eğitilmiş ve en doğru sonucu veren model belirlenmiştir. 
 
-| Algoritma Adları  	| Decision Tree Classifier 	| Random Forest Classifier 	| Logistic Regression 	| Support Vector Machine 	|
-|-------------------	|--------------------------	|--------------------------	|---------------------	|------------------------	|
-| Doğruluk Oranları 	| 72.44                    	| 84.43                    	| 88.74               	| 89.35                  	|
+| Algoritma Adları          	| Decision Tree Classifier 	| Random Forest Classifier 	| Logistic Regression 	| Support Vector Machine 	|
+|---------------------------	|--------------------------	|--------------------------	|---------------------	|------------------------	|
+| Doğruluk Oranı (Accuracy) 	| 72.44                    	| 84.43                    	| 88.74               	| 89.35                  	|
 
 Yukarıdaki tabloda görüldüğü gibi SUpport Vector Machine algoritması 89.35 doğruluk oranı ile en iyi sonucu vermiştir.
 
